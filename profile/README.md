@@ -2,7 +2,7 @@
 
 **One Core. Multiple Agent Experiences.**
 
-Open-source AI Agent infrastructure built on a unified, reusable, and extensible core, powering Agent experiences across Service, CLI, and Desktop.
+Open-source AI Agent infrastructure for building, running, and evolving intelligent agents.
 
 ## Architecture
 
@@ -21,11 +21,14 @@ Open-source AI Agent infrastructure built on a unified, reusable, and extensible
         Service          CLI            Desktop
 ```
 
-## Get Started
+## Projects
 
-Explore the core framework: **[AgentForge on GitHub](https://github.com/agentforge-tech/AgentForge)**
+| Project | Description |
+|---|---|
+| [**AgentForge**](https://github.com/agentforge-tech/AgentForge) | Unified LLM protocol, ReAct Agent runtime, and Harness infrastructure. |
+| [**OpenReach**](https://github.com/agentforge-tech/OpenReach) | Web access infrastructure for AI Agents, providing Search, Image Search, Web Read, Safe Curl, and multi-provider fallback. |
 
-Contributions, discussions, and feedback are welcome.
+**Coming next:** AgentForge-Service · AgentForge-CLI · AgentForge-Desktop
 
 ## About
 
