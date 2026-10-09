@@ -2,9 +2,7 @@
 
 **One Core. Multiple Agent Experiences.**
 
-Open-source AI Agent infrastructure for building, running, and evolving intelligent agents.
-
-AgentForge is dedicated to building a unified, reusable, and extensible foundation for AI Agent systems. Our goal is to power different Agent experiences through a shared core runtime, rather than rebuilding foundational capabilities for every product.
+Open-source AI Agent infrastructure built on a unified, reusable, and extensible core, powering Agent experiences across Service, CLI, and Desktop.
 
 ## Architecture
 
@@ -25,11 +23,15 @@ AgentForge is dedicated to building a unified, reusable, and extensible foundati
 
 ## Get Started
 
-Explore our core framework:
-
-**[AgentForge on GitHub](https://github.com/agentforge-tech/AgentForge)**
+Explore the core framework: **[AgentForge on GitHub](https://github.com/agentforge-tech/AgentForge)**
 
 Contributions, discussions, and feedback are welcome.
+
+## About
+
+Created and maintained by [**Changlu (@changluya)**](https://github.com/changluya).
+
+Java Backend & AI Agent Engineer · Open Source Enthusiast
 
 ---
 
