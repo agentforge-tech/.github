@@ -8,7 +8,7 @@ Open-source AI Agent infrastructure for building, running, and evolving intellig
 
 ```text
                          +--------------------------------------+
-                         |              AgentForge              |
+                         |          agentforge-core             |
                          |                                      |
                          |          LLM Model Protocol          |
                          |                  |                   |
