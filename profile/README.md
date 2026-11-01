@@ -7,18 +7,27 @@ Open-source AI Agent infrastructure for building, running, and evolving intellig
 ## Architecture
 
 ```text
-                    AgentForge Core
-                          |
-                 LLM Model Protocol
-                          |
-                    ReAct Agent
-                          |
-                    Harness Agent
-                          |
-          +---------------+---------------+
-          |               |               |
-          v               v               v
-        Service          CLI            Desktop
+                         +--------------------------------------+
+                         |              AgentForge              |
+                         |                                      |
+                         |          LLM Model Protocol          |
+                         |                  |                   |
+                         |            ReAct Agent               |
+                         |                  |                   |
+                         |           Harness Agent              |
+                         |                                      |
+                         +------------------+-------------------+
+                                            |
+                                            |
+                          +-----------------+-----------------+
+                          |        agentforge-service         |
+                          +-----------------+-----------------+
+                                            |
+                                            |
+                  +-------------------------+-------------------------+
+                  |                         |                         |
+                  v                         v                         v
+               Platform                    CLI                     Desktop
 ```
 
 ## Open Source Projects
