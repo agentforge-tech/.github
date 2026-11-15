@@ -37,10 +37,11 @@ Open-source AI Agent infrastructure for building, running, and evolving intellig
 | Project | Description |
 |---|---|
 | [**AgentForge**](https://github.com/agentforge-tech/AgentForge) | Unified LLM protocol, ReAct Agent runtime, and Harness infrastructure. |
+| [**AgentForge-Desktop**](https://github.com/agentforge-tech/AgentForge-Desktop) | Desktop Agent workbench for local sessions, streaming chat, and model/agent configuration. |
 | [**OpenReach**](https://github.com/agentforge-tech/OpenReach) | Web access infrastructure for AI Agents, providing Search, Image Search, Web Read, and multi-provider fallback. |
 | [**Open Office Skill**](https://github.com/changluya/open-office-skill) | Office document processing Skill for AI Agents, supporting DOCX, PPTX, XLSX, PDF, and document validation. |
 
-**Roadmap:** AgentForge-Service · AgentForge-CLI · AgentForge-Desktop
+**Roadmap:** AgentForge-Service · AgentForge-CLI
 
 ## About
 
